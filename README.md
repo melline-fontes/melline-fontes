@@ -1,4 +1,5 @@
-### Hi there 👋 . Welcome to my coding space :-)
+### Hi, I'm Melline
+### Oi, Sou a Melline
 
 <!--
 **melline-fontes/melline-fontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
