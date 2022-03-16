@@ -1,5 +1,9 @@
-### Hi, I'm Melline
-### Oi, Sou a Melline
+### Hi, I'm Melline.
+### Oi, Sou a Melline.
+
+😄 Pronouns: she/her
+📫 How to reach me: melfontes@gmail.com
+💬 I'm Brazilian EN/PT(BR)  - Aqui falamos português 🇧🇷 
 
 <!--
 **melline-fontes/melline-fontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
