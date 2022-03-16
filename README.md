@@ -1,4 +1,4 @@
-### Hi, I'm Melline. --- Oi, Sou a Melline.
+### Hi, I'm Melline --- Oi, Sou a Melline.
 
 - 😄 Pronouns: she/her
 - 📫 How to reach me: melfontes@gmail.com
