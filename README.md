@@ -1,6 +1,6 @@
 ### Hi, I'm Melline --- Oi, Sou a Melline.
 
-I'm a Bioinformatics Specialist currently living in US. The past few years I've been interesting is learn more about single-cell, proteomics, ATAC-seq and much more. I love to talk about metagenomics and about machine learning! Currently working in improving my english (haha) and python skills :-) 
+I'm a Sr Bioinformatician currently living in US. The past few years I've been interesting is learn more about single-cell, proteomics, ATAC-seq and much more. I love to talk about metagenomics and about machine learning! Currently working in improving my english (haha) and python skills :-) 
 
 - 😄 Pronouns: she/her
 - 📫 How to reach me: melfontes@gmail.com
