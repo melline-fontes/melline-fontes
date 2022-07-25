@@ -15,7 +15,7 @@ I'm a Sr Bioinformatician currently living in US. The past few years I've been i
 - 👯 I’m looking to collaborate on ... single cell
 - 🤔 I’m looking for help with ... python programming
 - 💬 Ask me about ... metagenomics
-- 📫 How to reach me: melfontes@gmail.com
+- 📫 How to reach me: mfontesnoronha@luc.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm Brazilian 
 -->
