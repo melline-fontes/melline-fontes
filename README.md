@@ -4,7 +4,8 @@ I'm a Sr Bioinformatician currently living in US. The past few years I've been i
 
 - 😄 Pronouns: she/her
 - 📫 How to reach me: melfontes@gmail.com
-- 💬 I'm Brazilian EN/PT(BR)  - Aqui falamos português 🇧🇷 
+- 💬 I'm Brazilian EN/PT(BR)  - Aqui falamos português 🇧🇷
+- https://scholar.google.com/citations?user=5BLiI54AAAAJ&hl=en
 
 <!--
 **melline-fontes/melline-fontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
