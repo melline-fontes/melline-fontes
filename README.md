@@ -1,8 +1,6 @@
 # Hi, I'm Melline 👋 | Oi, sou a Melline 🇧🇷
 
 I'm a **Senior Bioinformatician** and **Head of the Bioinformatics Team at Wolfe Lab**, currently based in the US 🇺🇸.  
-I'm passionate about **metagenomics**, **machine learning**, and exploring emerging technologies like **single-cell analysis**, **proteomics**, and **ATAC-seq**.
-
 Right now, I'm focused on sharpening my **AI skills** for applications in **healthcare and genomics**.
 
 ---
