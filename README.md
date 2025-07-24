@@ -19,7 +19,7 @@ Right now, I'm focused on sharpening my **AI skills** for applications in **heal
 
 ## 📫 Let's connect!
 
-- 💌 Email: [melfontes@gmail.com](mailto:melfontes@gmail.com)  
+- 💌 Email: [mfontesnoronha@luc.edu](mailto:mfontesnoronha@luc.edu)  
 - 🧠 Publications: [Google Scholar](https://scholar.google.com/citations?user=5BLiI54AAAAJ&hl=en)  
 - 🔗 LinkedIn: [[linkedin.com/in/melline](https://www.linkedin.com/in/melline](https://www.linkedin.com/in/melline-fontes-noronha-/)
 
