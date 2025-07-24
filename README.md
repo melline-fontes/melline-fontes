@@ -1,22 +1,34 @@
-### Hi, I'm Melline --- Oi, Sou a Melline.
+# Hi, I'm Melline 👋 | Oi, sou a Melline 🇧🇷
 
-I'm a Sr Bioinformatician currently living in US. The past few years I've been interesting is learn more about single-cell, proteomics, ATAC-seq and much more. I love to talk about metagenomics and about machine learning! Currently working in improving my english (haha) and python skills :-) 
+I'm a **Senior Bioinformatician** and **Head of the Bioinformatics Team at Wolfe Lab**, currently based in the US 🇺🇸.  
+I'm passionate about **metagenomics**, **machine learning**, and exploring emerging technologies like **single-cell analysis**, **proteomics**, and **ATAC-seq**.
 
-- 😄 Pronouns: she/her
-- 📫 How to reach me: melfontes@gmail.com
-- 💬 I'm Brazilian EN/PT(BR)  - Aqui falamos português 🇧🇷
-- My publications: https://scholar.google.com/citations?user=5BLiI54AAAAJ&hl=en
+Right now, I'm focused on sharpening my **AI skills** for applications in **healthcare and genomics**.
 
-<!--
-**melline-fontes/melline-fontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+## 💻 A bit more about me
+
+- 🔬 10+ years in bioinformatics, microbiome research, and computational biology  
+- 🧬 Experienced in whole-genome sequencing, annotation, and microbial genomics  
+- ☁️ Comfortable working with AWS, HPC clusters, Docker, and workflow managers (WDL)  
+- 🤖 Excited about the intersection of ML/AI and biology  
+- 🇧🇷 Proudly Brazilian – fluent in **Portuguese (PT-BR)** and **English**
+
+---
+
+## 📫 Let's connect!
+
+- 💌 Email: [melfontes@gmail.com](mailto:melfontes@gmail.com)  
+- 🧠 Publications: [Google Scholar](https://scholar.google.com/citations?user=5BLiI54AAAAJ&hl=en)  
+- 🔗 LinkedIn: [[linkedin.com/in/melline](https://www.linkedin.com/in/melline](https://www.linkedin.com/in/melline-fontes-noronha-/)
+
+---
+
+## ✨ Fun facts
+
+- 🏐 Beach volleyball obsessed  
+- ☕ Always up for good coffee and deep science chats  
+- 🎙️ Love helping others craft impactful science presentations
 
 
-- 🔭 I’m currently working on ...  improving my skills!
-- 🌱 I’m currently learning ... how to use github! hahaha
-- 👯 I’m looking to collaborate on ... single cell
-- 🤔 I’m looking for help with ... python programming
-- 💬 Ask me about ... metagenomics
-- 📫 How to reach me: mfontesnoronha@luc.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm Brazilian 
--->
