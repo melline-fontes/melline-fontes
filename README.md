@@ -9,7 +9,8 @@ Right now, I'm focused on sharpening my **AI skills** for applications in **heal
 
 -  10+ years in bioinformatics, microbiome research, and computational biology  
 -  Experienced in whole-genome sequencing, annotation, and microbial genomics  
--  Comfortable working with AWS, HPC clusters, Docker, and workflow managers (WDL)  
+-  Comfortable working with AWS, HPC clusters, Docker, and workflow managers (WDL)
+-  Python, Perl, R, bash. 
 -  Excited about the intersection of ML/AI and biology  
 -  Proudly Brazilian – fluent in **Portuguese (PT-BR)** and **English**
 
