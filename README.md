@@ -1,6 +1,6 @@
 # Hi, I'm Melline 
 
-I'm a **Senior Bioinformatician** and **Head of the Bioinformatics Team at Wolfe Lab**, currently based in the US 🇺🇸.  
+I'm a **Senior Bioinformatician** and **Head of the Bioinformatics Team at Wolfe Lab**, currently based in the US.  
 Right now, I'm focused on sharpening my **AI skills** for applications in **healthcare and genomics**.
 
 ---
