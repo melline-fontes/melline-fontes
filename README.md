@@ -20,7 +20,7 @@ Right now, I'm focused on sharpening my **AI skills** for applications in **heal
 
 -  Email: [mfontesnoronha@luc.edu](mailto:mfontesnoronha@luc.edu)  
 -  Publications: [Google Scholar](https://scholar.google.com/citations?user=5BLiI54AAAAJ&hl=en)  
--  LinkedIn: [[[linkedin.com/in/melline]([https://www.linkedin.com/in/melline](https://www.linkedin.com/in/melline-fontes-noronha-/))]](https://www.linkedin.com/in/melline-fontes-noronha-/)
+-  LinkedIn: [in/melline-fontes-noronha](https://www.linkedin.com/in/melline-fontes-noronha-/)
 
 ---
 
