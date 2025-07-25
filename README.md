@@ -5,7 +5,7 @@ Right now, I'm focused on sharpening my **AI skills** for applications in **heal
 
 ---
 
-## 💻 A bit more about me
+##  A bit more about me
 
 -  10+ years in bioinformatics, microbiome research, and computational biology  
 -  Experienced in whole-genome sequencing, annotation, and microbial genomics  
