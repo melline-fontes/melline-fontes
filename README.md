@@ -11,7 +11,7 @@ Right now, I'm focused on sharpening my **AI skills** for applications in **heal
 -  Experienced in whole-genome sequencing, annotation, and microbial genomics  
 -  Comfortable working with AWS, HPC clusters, Docker, and workflow managers (WDL)
 -  Python, Perl, R, bash. 
--  Excited about the intersection of ML/AI and biology  
+-  Excited about the intersection of ML/AI and genomics  
 -  Proudly Brazilian – fluent in **Portuguese (PT-BR)** and **English**
 
 ---
